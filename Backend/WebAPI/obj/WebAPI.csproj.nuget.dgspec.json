@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BarniPC\\Desktop\\FinalExam\\Backend\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Rdwn\\Documents\\Projects\\4th Sem\\fullstack\\FinalExam\\Backend\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BarniPC\\Desktop\\FinalExam\\Backend\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Rdwn\\Documents\\Projects\\4th Sem\\fullstack\\FinalExam\\Backend\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BarniPC\\Desktop\\FinalExam\\Backend\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Rdwn\\Documents\\Projects\\4th Sem\\fullstack\\FinalExam\\Backend\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\BarniPC\\Desktop\\FinalExam\\Backend\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\BarniPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BarniPC\\Desktop\\FinalExam\\Backend\\WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\Rdwn\\Documents\\Projects\\4th Sem\\fullstack\\FinalExam\\Backend\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Rdwn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rdwn\\Documents\\Projects\\4th Sem\\fullstack\\FinalExam\\Backend\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\BarniPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Rdwn\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -61,6 +53,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -69,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
