@@ -24,3 +24,27 @@ C:\Users\BarniPC\Desktop\FinalExam\Backend\WebAPI\obj\Debug\net6.0\refint\WebAPI
 C:\Users\BarniPC\Desktop\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.pdb
 C:\Users\BarniPC\Desktop\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
 C:\Users\BarniPC\Desktop\FinalExam\Backend\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.sourcelink.json
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\Rdwn\Documents\Projects\4th Sem\fullstack\FinalExam\Backend\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll

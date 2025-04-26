@@ -6,29 +6,27 @@ public class Startup
     public void ConfigureServices(IServiceCollection services)
     {
         services.AddControllers();
-        services.AddScoped<IEmployeeService, EmployeeService>();
-        // Removed AddWebSockets as it's not needed in .NET 6
+        services.AddSignalR();
+        services.AddCors(options =>
+        {
+            options.AddPolicy("AllowAll", builder =>
+            {
+                builder.SetIsOriginAllowed(_ => true)
+                       .AllowAnyMethod()
+                       .AllowAnyHeader()
+                       .AllowCredentials();
+            });
+        });
     }
 
     public void Configure(IApplicationBuilder app)
     {
+        app.UseCors("AllowAll");
         app.UseRouting();
-        app.UseWebSockets();
         app.UseEndpoints(endpoints =>
         {
+            endpoints.MapHub<WebSocketHub>("/schedulehub");
             endpoints.MapControllers();
-            endpoints.Map("/ws", async context =>
-            {
-                if (context.WebSockets.IsWebSocketRequest)
-                {
-                    var webSocket = await context.WebSockets.AcceptWebSocketAsync();
-                    // Handle WebSocket connection here
-                }
-                else
-                {
-                    context.Response.StatusCode = 400;
-                }
-            });
         });
     }
 }
