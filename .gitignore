@@ -7,3 +7,7 @@ Backend/WebAPI/obj/project.assets.json
 Backend/WebAPI/obj/project.nuget.cache
 Backend/WebAPI/obj/WebAPI.csproj.nuget.dgspec.json
 Backend/WebAPI/obj/WebAPI.csproj.nuget.g.props
+
+Backend/Application/obj
+Backend/WebAPI/bin
+Backend/WebAPI/obj
