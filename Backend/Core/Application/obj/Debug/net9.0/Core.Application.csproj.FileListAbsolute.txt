@@ -1,0 +1,16 @@
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\Core.Application.csproj.AssemblyReference.cache
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\Core.Application.AssemblyInfoInputs.cache
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\Core.Application.AssemblyInfo.cs
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\Core.Application.sourcelink.json
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\bin\Debug\net9.0\Core.Application.deps.json
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\bin\Debug\net9.0\Core.Application.dll
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\bin\Debug\net9.0\Core.Application.pdb
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\bin\Debug\net9.0\Core.Domain.dll
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\bin\Debug\net9.0\Core.Domain.pdb
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\Core.App.01B2A2D7.Up2Date
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\Core.Application.dll
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\refint\Core.Application.dll
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\Core.Application.pdb
+C:\Users\BarniLaptop\Documents\GitHub\FinalExam\Backend\Core\Application\obj\Debug\net9.0\ref\Core.Application.dll
